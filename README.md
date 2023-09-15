@@ -59,5 +59,7 @@ Attribute Information:
 `thal`: 0 = normal; 1 = fixed defect; 2 = reversable defect`
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-## All the output examples I have on each step you can see in  •	All the output examples you have on each step
+## All the output examples I have on each step you can see in  `HeartDiseasePrediction.ipynb` Jupyter notebook file.
+# The results of model: accuracy and prediction for the given project
+## Summary
 
